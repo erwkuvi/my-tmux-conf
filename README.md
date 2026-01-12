@@ -4,3 +4,4 @@ leader: ctrl + a
 | --- | --- |
 | `<leader> + alt + hjkl ` | Resize pane. |
 | `<leader>l + hjkl` | navigate pane |
+| `<leader>l + c` | new tab |
